@@ -1,4 +1,4 @@
-# Portfolio - [Your Name]
+# Portfolio - [AMIT KUMAR]
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experiences as a developer. Built with React, this portfolio provides an interactive and aesthetically pleasing way to explore my journey and expertise.
 
