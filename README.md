@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 
 ## Live Demo
 
-Visit my live portfolio: [My Portfolio URL](https://amit-k-portfolio.netlify.app/)
+Visit my live portfolio: [My Portfolio URL](https://amitkumar-portfolio1.netlify.app/)
 
 ## Technologies Used
 
